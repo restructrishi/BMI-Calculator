@@ -20,6 +20,6 @@ The BMI Calculator is a simple web application that calculates a user's Body Mas
 
 ## Screenshots
 
-![proj 2](https://github.com/user-attachments/assets/f6daf7ce-206d-43c9-9a6c-15876ec8831d)
+![proj 2](https://github.com/user-attachments/assets/eda2b774-a01c-41a8-8790-6e6a78b57e01)
 
 
